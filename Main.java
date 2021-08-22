@@ -15,7 +15,7 @@ public class Main {
 		System.out.println(teste2);
 		
 		if(teste == teste2) 
-			System.out.println("Os dois objetos possuem o mesmo endereço, os tornando um único objeto");
+			System.out.println("As duas instÃ¢ncias possuem o mesmo endereÃ§o");
 		
 	}
 }
